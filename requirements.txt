@@ -1,0 +1,3 @@
+ducc0
+numpy
+healpy
