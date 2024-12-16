@@ -123,3 +123,4 @@ class NeedletTransform:
         - filter: A 1D array representing the filter in harmonic space.
         """
         return NeedletTransform.TaperedTopHat(bandcenter, width, taperwidth=0)
+#testing
